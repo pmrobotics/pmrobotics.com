@@ -25,6 +25,7 @@ author = 'Pm'
 
 extensions = [
   "sphinx_design",
+  "sphinx.ext.githubpages",
 ]
 
 templates_path = ['_templates']
