@@ -36,6 +36,7 @@ exclude_patterns = []
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
+html_baseurl = 'http://pmrobotics.org/'
 html_theme = 'furo'
 html_theme_options = {
   "navigation_with_keys": True,
